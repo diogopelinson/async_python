@@ -34,5 +34,5 @@ Demonstrar como o `asyncio` pode:
 
 ## 📘 Referências
 
-  * [Documentação do `asyncio`](https://www.google.com/search?q=%5Bhttps://docs.python.org/3/library/asyncio.html%5D\(https://docs.python.org/3/library/asyncio.html\))
-  * [Documentação do `httpx`](https://www.google.com/search?q=%5Bhttps://www.python-httpx.org/%5D\(https://www.python-httpx.org/\))
+  * [Documentação do `asyncio`](https://docs.python.org/3/library/asyncio.html)
+  * [Documentação do `httpx`](https://www.python-httpx.org)
